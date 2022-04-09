@@ -631,12 +631,6 @@ textarea {
   }
 }
 
-@media screen and (max-width: 767px) {
-  .news-item-btn {
-    padding: 4px 16px;
-  }
-}
-
 .news-item-detail {
   -webkit-box-flex: 0;
       -ms-flex: 0 1 64.629%;

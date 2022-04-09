@@ -528,9 +528,6 @@ textarea {
   @include mq('md'){
     margin-right: 40px;
   }
-  @include mq('sm'){
-    padding: 4px 16px;
-  }
 }
 .news-item-detail {
   flex: 0 1 64.629%;
